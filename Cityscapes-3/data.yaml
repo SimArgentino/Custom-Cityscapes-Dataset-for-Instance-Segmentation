@@ -1,0 +1,50 @@
+names:
+- bicycle
+- bicyclegroup
+- bridge
+- building
+- bus
+- car
+- caravan
+- cargroup
+- dynamic
+- ego vehicle
+- fence
+- ground
+- guard rail
+- license plate
+- motorcycle
+- motorcyclegroup
+- parking
+- person
+- persongroup
+- pole
+- polegroup
+- rail track
+- rectification border
+- rider
+- ridergroup
+- road
+- sidewalk
+- sky
+- static
+- terrain
+- traffic light
+- traffic sign
+- trailer
+- train
+- truck
+- truckgroup
+- tunnel
+- vegetation
+- wall
+nc: 39
+roboflow:
+  license: CC BY 4.0
+  project: cityscapes-zz0ur
+  url: https://universe.roboflow.com/luigiaworkspace/cityscapes-zz0ur/dataset/3
+  version: 3
+  workspace: luigiaworkspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images

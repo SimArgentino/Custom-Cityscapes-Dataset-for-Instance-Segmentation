@@ -1,0 +1,30 @@
+names:
+- bicycle
+- bicyclegroup
+- building
+- bus
+- car
+- caravan
+- cargroup
+- motorcycle
+- motorcyclegroup
+- person
+- persongroup
+- rider
+- ridergroup
+- road
+- traffic light
+- traffic sign
+- truck
+- truckgroup
+- vegetation
+nc: 19
+roboflow:
+  license: CC BY 4.0
+  project: cityscapes-zz0ur
+  url: https://universe.roboflow.com/luigiaworkspace/cityscapes-zz0ur/dataset/7
+  version: 7
+  workspace: luigiaworkspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images

@@ -1,0 +1,19 @@
+names:
+- a
+- bycicle
+- car
+- motorcycle
+- person
+- road
+- traffic sign
+- vegetation
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: cityscapes-zz0ur
+  url: https://universe.roboflow.com/luigiaworkspace/cityscapes-zz0ur/dataset/1
+  version: 1
+  workspace: luigiaworkspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images
