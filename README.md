@@ -51,7 +51,7 @@ This flexibility enabled structured benchmarking across architectures like **Mas
 
 ## 🔍 Use Case Example
 
-These datasets were used in the companion project [Instance Segmentation Benchmark]([https://github.com/yourusername/instance-segmentation](https://github.com/SimArgentino/Instance-Segmentation-on-Cityscapes-with-Mask-R-CNN-and-YOLOv8)), where we compared:
+These datasets were used in the companion project [Instance Segmentation Benchmark]((https://github.com/SimArgentino/Instance-Segmentation-on-Cityscapes-with-Mask-R-CNN-and-YOLOv8)), where we compared:
 
 - **Mask R-CNN** pretrained on COCO and fine-tuned on Cityscapes v10 (34 classes)
 - **YOLOv8** trained from scratch on datasets v3, v4, v9, and v10
