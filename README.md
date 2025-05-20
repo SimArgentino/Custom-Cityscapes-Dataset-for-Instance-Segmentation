@@ -70,15 +70,6 @@ Export format: YOLOv8 (segmentation)
 
 ---
 
-## 👤 Authors
-
-This dataset and repository are maintained by:
-
-- **Luigia Costabile**  
-- With contributions from Federico Negri, Simone Argentino, Vincenzo Romano, and Francesco Borrelli
-
----
-
 ## 📄 License
 
 The original dataset is licensed under **CC BY 4.0**.  
